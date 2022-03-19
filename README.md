@@ -50,3 +50,8 @@ Window Spy의 Mouse Position -> Window 의 x, y 좌표 값을 확인한다.<br>
 ## 한글이 깨질 때 해결법
 ![한글이 깨져요](https://github.com/ray698/TwitchAutoBlacklistKR/blob/main/BrokenLang.PNG)<br>
 한글이 깨질 경우 메모장 -> 다른 이름으로 저장에서 ANSI <-> UTF-8 을 바꿔가면서 저장해보세요.
+
+## 안내
+본인의 선택과 책임 하에 사용해주세요.<br>
+소스 내용은 MIT 라이선스를 적용합니다. <br>
+단, DB의 저작권은 원 저작자에게 존재합니다.
